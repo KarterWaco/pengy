@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Pengy",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

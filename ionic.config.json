@@ -1,0 +1,8 @@
+{
+  "name": "Pengy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "dc6ea2d5"
+}
